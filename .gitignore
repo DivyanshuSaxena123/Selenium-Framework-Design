@@ -1,0 +1,9 @@
+.idea/
+target/
+logs/
+*.log
+node_modules/
+test-results/
+playwright-report/
+.env
+.DS_Store
